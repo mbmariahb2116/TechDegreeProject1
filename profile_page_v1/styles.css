@@ -112,10 +112,23 @@ header .profile-image:hover {
   border-color: #2b2ee0;
 }
 
-ul.skills {
-  padding: 0;
-  text-align: center;
+div.card {
+  width: 50%;
+  height: auto;
 }
+
+div.skills {
+width: 50%;
+}
+
+
+.ServiceNow li{
+text-align: left;
+}
+
+.Doordash li{
+  text-align: left;
+  }
 
 .skills li {
   border-radius: 6px;
@@ -123,7 +136,7 @@ ul.skills {
   background: #ff9904;
   color: white;
   padding: 5px 10px;
-  margin: 2px;
+  margin: 20px;
 }
 
 .skills li:nth-child(odd) {
