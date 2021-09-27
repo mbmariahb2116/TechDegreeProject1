@@ -1,2 +1,2 @@
 # TechDegreeProject1
- 1st Techdegre eProject
+ 1st Techdegree Project by Mariah Buncome 
